@@ -1,0 +1,13 @@
+{
+  "name": "grep-loader",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "keywords": [
+    "yaml",
+    "webpack",
+    "loader",
+    "json"
+  ],
+  "license": "MIT"
+}
